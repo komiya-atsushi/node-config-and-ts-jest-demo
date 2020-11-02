@@ -1,3 +1,3 @@
-export = {
+module.exports = {
   message: 'Hello, world!'
 }
