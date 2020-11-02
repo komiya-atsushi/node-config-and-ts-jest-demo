@@ -1,0 +1,3 @@
+export = {
+  message: 'Hello, world!'
+}
